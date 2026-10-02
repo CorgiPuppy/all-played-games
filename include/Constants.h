@@ -262,6 +262,62 @@ namespace Constants {
 			"Unravel two",
 			{}
 		},
+		{
+			"The Last Gas Station",
+			{}
+		},
+		{
+			"Slime Rancher 2",
+			{}
+		},
+		{
+			"Рабылка IRL",
+			{}
+		},
+		{
+			"Old Market Simulator",
+			{}
+		},
+		{
+			"Sons of the Forest",
+			{}
+		},
+		{
+			"The Outlast Trials",
+			{}
+		},
+		{
+			"Wordle",
+			{}
+		},
+		{
+			"Mindustry",
+			{}
+		},
+		{
+			"Overcooked! 2",
+			{}
+		},
+		{
+			"Moving out 2",
+			{}
+		},
+		{
+			"Го",
+			{}
+		},
+		{
+			"Garry's Mod",
+			{}
+		},
+		{
+			"RV There Yet",
+			{}
+		},
+		{
+			"Виселица",
+			{}
+		},
 	};
 }
 
