@@ -120,6 +120,14 @@ namespace Constants {
 			"R.E.P.O.",
 			{}
 		},
+		{
+			"Кто больше назовёт слов?",
+			{}
+		},
+		{
+			"Назвать то же самое слово",
+			{}
+		},
 	};
 	const std::vector <std::pair<std::string, std::vector<std::string>>> allFutureGames = {
 		{
@@ -316,14 +324,6 @@ namespace Constants {
 		},
 		{
 			"Виселица",
-			{}
-		},
-		{
-			"Кто больше назовёт слов?",
-			{}
-		},
-		{
-			"Назвать то же самое слово",
 			{}
 		},
 	};
