@@ -8,30 +8,44 @@
 8. Clone drone in the danger zone;
 9. Escape the backrooms;
 10. Fall guys;
-11. Golf with your friends;
-12. Human: Fall flat;
-13. It takes two;
-14. LOCKDOWN Protocol;
-15. Left 4 dead 2;
-16. Liar's bar;
-17. MapHunt;
-18. PEAK;
-19. Paint the town red;
-20. PayDay 2;
-21. Phasmophobia;
-22. Portal 2;
-23. Raft;
-24. Schedule 1;
-25. SpyParty;
-26. Super Bunny Man;
-27. Terraria;
-28. Uno;
-29. Unravel two;
-30. Большой теннис;
-31. Домино;
-32. Карты:
+11. Garry's Mod;
+12. Golf with your friends;
+13. Human: Fall flat;
+14. It takes two;
+15. LOCKDOWN Protocol;
+16. Left 4 dead 2;
+17. Liar's bar;
+18. MapHunt;
+19. Mindustry;
+20. Moving out 2;
+21. Old Market Simulator;
+22. Overcooked! 2;
+23. PEAK;
+24. Paint the town red;
+25. PayDay 2;
+26. Phasmophobia;
+27. Portal 2;
+28. RV There Yet;
+29. Raft;
+30. Schedule 1;
+31. Slime Rancher 2;
+32. Sons of the Forest;
+33. SpyParty;
+34. Super Bunny Man;
+35. Terraria;
+36. The Last Gas Station;
+37. The Outlast Trials;
+38. Uno;
+39. Unravel two;
+40. Wordle;
+41. Большой теннис;
+42. Виселица;
+43. Го;
+44. Домино;
+45. Карты:
 	a. Дурак;
 	b. Козёл;
 	c. Переводной.
-33. Крестики-нолики;
-34. Морской бой.
+46. Крестики-нолики;
+47. Морской бой;
+48. Рабылка IRL.
