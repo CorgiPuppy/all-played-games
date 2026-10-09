@@ -341,6 +341,10 @@ namespace Constants {
 		{
 			"Little NightMare III",
 			{}
+		},
+		{
+			"Cuphead",
+			{}
 		}
 	};
 }
