@@ -128,6 +128,10 @@ namespace Constants {
 			"Назвать то же самое слово",
 			{}
 		},
+		{
+			"CodeForces",
+			{}
+		}
 	};
 	const std::vector <std::pair<std::string, std::vector<std::string>>> allFutureGames = {
 		{
@@ -326,6 +330,18 @@ namespace Constants {
 			"Виселица",
 			{}
 		},
+		{
+			"Labyrinthine",
+			{}
+		},
+		{
+			"Pacify",
+			{}
+		},
+		{
+			"Little NightMare III",
+			{}
+		}
 	};
 }
 
