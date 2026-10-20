@@ -131,6 +131,14 @@ namespace Constants {
 		{
 			"CodeForces",
 			{}
+		},
+		{
+			"Codenames",
+			{}
+		},
+		{
+			"Who am I?",
+			{}
 		}
 	};
 	const std::vector <std::pair<std::string, std::vector<std::string>>> allFutureGames = {
@@ -345,7 +353,7 @@ namespace Constants {
 		{
 			"Cuphead",
 			{}
-		}
+		},
 	};
 }
 
