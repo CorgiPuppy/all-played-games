@@ -144,8 +144,14 @@ namespace Constants {
 			"Tier list",
 			{
 				"Сыгранные игры",
+				"Предметы РХТУ",
+				"Монстры R.E.P.O.",
 			}
-		}
+		},
+		{
+			"Цитадели",
+			{}
+		},
 	};
 	const std::vector <std::pair<std::string, std::vector<std::string>>> allFutureGames = {
 		{
@@ -361,23 +367,12 @@ namespace Constants {
 			{}
 		},
 		{
-			"Tier list",
-			{
-				"Предметы РХТУ",
-				"Монстры R.E.P.O.",
-			}
-		},
-		{
 			"ЕГЭ",
 			{
 				"Русский язык",
 				"Информатика",
 			}
 		},
-		{
-			"Цитадели",
-			{}
-		}
 	};
 }
 
