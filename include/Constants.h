@@ -373,6 +373,14 @@ namespace Constants {
 				"Информатика",
 			}
 		},
+		{
+			"Walk of Life",
+			{},
+		},
+		{
+			"Clash Royale",
+			{},
+		}
 	};
 }
 
