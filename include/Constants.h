@@ -393,6 +393,18 @@ namespace Constants {
 		{
 			"The Binding of Isaac",
 			{},
+		},
+		{
+			"How to fish",
+			{},
+		},
+		{
+			"Cult of the lamb",
+			{},
+		},
+		{
+			"Walk of the life",
+			{},
 		}
 	};
 }
