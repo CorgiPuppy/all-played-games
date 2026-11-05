@@ -152,6 +152,10 @@ namespace Constants {
 			"Цитадели",
 			{}
 		},
+		{
+			"Squarrel.io",
+			{}
+		}
 	};
 	const std::vector <std::pair<std::string, std::vector<std::string>>> allFutureGames = {
 		{
@@ -172,6 +176,7 @@ namespace Constants {
 				"Дурак",
 				"Переводной",
 				"Козёл",
+				"21",
 			}
 		},
 		{
@@ -379,6 +384,14 @@ namespace Constants {
 		},
 		{
 			"Clash Royale",
+			{},
+		},
+		{
+			"We were here",
+			{},
+		},
+		{
+			"The Binding of Isaac",
 			{},
 		}
 	};

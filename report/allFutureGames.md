@@ -38,23 +38,26 @@
 38. SpyParty;
 39. Super Bunny Man;
 40. Terraria;
-41. The Last Gas Station;
-42. The Outlast Trials;
-43. Uno;
-44. Unravel two;
-45. Walk of Life;
-46. Wordle;
-47. Большой теннис;
-48. Виселица;
-49. Го;
-50. Домино;
-51. ЕГЭ:
+41. The Binding of Isaac;
+42. The Last Gas Station;
+43. The Outlast Trials;
+44. Uno;
+45. Unravel two;
+46. Walk of Life;
+47. We were here;
+48. Wordle;
+49. Большой теннис;
+50. Виселица;
+51. Го;
+52. Домино;
+53. ЕГЭ:
 	a. Информатика;
 	b. Русский язык.
-52. Карты:
-	a. Дурак;
-	b. Козёл;
-	c. Переводной.
-53. Крестики-нолики;
-54. Морской бой;
-55. Рабылка IRL.
+54. Карты:
+	a. 21;
+	b. Дурак;
+	c. Козёл;
+	d. Переводной.
+55. Крестики-нолики;
+56. Морской бой;
+57. Рабылка IRL.
