@@ -405,6 +405,34 @@ namespace Constants {
 		{
 			"Walk of the life",
 			{},
+		},
+		{
+			"Lego Voyagers",
+			{},
+		},
+		{
+			"Risk of Rain 2",
+			{},
+		},
+		{
+			"Split Brain Samsara",
+			{},
+		},
+		{
+			"Sea of Thieves",
+			{},
+		},
+		{
+			"Granny: Escape Together",
+			{},
+		},
+		{
+			"Geotastic",
+			{},
+		},
+		{
+			"Ultimate Chichen Horse",
+			{},
 		}
 	};
 }
